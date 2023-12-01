@@ -24,7 +24,7 @@
 
 <!-- Marvelous Frameworks -->
 <div align="center">
-  <img src="https://simpleicons.org/icons/react.svg" alt="React.js Icon" title="React.js" width="10">
+  <img src="https://simpleicons.org/icons/react.svg" alt="React.js Icon" title="React.js" width="50">
   <img src="https://simpleicons.org/icons/next-dot-js.svg" alt="Next.js Icon" title="Next.js" width="50">
   <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="Node.js Icon" title="Node.js" width="50">
   <img src="https://simpleicons.org/icons/express.svg" alt="Express Icon" title="Express" width="50">
