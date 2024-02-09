@@ -5,7 +5,7 @@
   <h1>⚡ Welcome to the Marvelous World of Me! ⚡</h1>
 </div>
 
-<!-- Superhero Bio -->
+<!-- Superhero Biography -->
 <p align="center">
   🦸 Senior Level Full Stack Developer | Crafting superpowers in the digital realm | Unleashing creativity and innovation 🌌
 </p>
