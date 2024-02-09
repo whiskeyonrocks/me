@@ -10,7 +10,7 @@
   🦸 Senior Level Full Stack Developer | Crafting superpowers in the digital realm | Unleashing creativity and innovation 🌌
 </p>
 
-<!-- Superhero Toolbox -->
+<!-- Superhero Toolboxes -->
 <h2 align="center">🛠️ Tools in My Superhero Arsenal 🛠️</h2>
 
 <!-- Superhero Skill Set -->
