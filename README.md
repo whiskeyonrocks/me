@@ -100,3 +100,5 @@
     <strong>Openlink Endur:</strong> Experience with Openlink Endur for energy trading and risk management.
   </div>
 </div>
+
+😃 - New Smiley added! Fun with my code!
