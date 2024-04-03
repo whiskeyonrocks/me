@@ -83,22 +83,25 @@
     <img src="./assets/icons/git.svg" alt="Git Icon" title="Git" width="40" height="40">
     <img src="./assets/icons/github.svg" alt="GitHub Icon" title="GitHub" width="40" height="40">
     <img src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab Icon" title="GitLab" width="40" height="40">
+    <strong>Git, Github, Gitlab:</strong> Proficient in version control systems, using Git, Github, and Gitlab for collaborative development.
+  </div>
+  <div align="center">
     <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Icon" title="Firebase" width="40" height="40">
     <img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure DevOps Icon" title="Azure DevOps" width="40" height="40">
     <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes Icon" title="Kubernetes" width="40" height="40">
     <img src="https://simpleicons.org/icons/docker.svg" alt="Docker Icon" title="Docker" width="40" height="40">
-    <strong>Git, Github, Gitlab:</strong> Proficient in version control systems, using Git, Github, and Gitlab for collaborative development.
+    <strong>Firebase, Azure DevOps, Kubernetes, Docker:</strong> Experience to build end to end CI/CD pipelines using DevOps tools..
   </div>
 </div>
 
 <!-- Other Marvelous Tools -->
 <div align="center">
   <div align="center">
-    <!-- <img src="https://img.icons8.com/color/452/openlink-endur.png" alt="Openlink Endur Icon" title="Openlink Endur" width="40" height="40">
-    <img src="https://simpleicons.org/icons/servicenow.svg" alt="ServiceNow Icon" title="ServiceNow" width="40" height="40"> -->
     <img src="https://simpleicons.org/icons/figma.svg" alt="Figma Icon" title="Figma" width="40" height="40">
-    <strong>Openlink Endur:</strong> Experience with Openlink Endur for energy trading and risk management.
+    <strong>Figma:</strong> Experience to work with Figma, Sketch and design tools for frontend development.
   </div>
 </div>
 
-- Rahul
+<div align="center">
+  <h1>⚡ Thankyou! ⚡</h1>
+</div>
