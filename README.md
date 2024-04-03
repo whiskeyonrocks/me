@@ -86,11 +86,11 @@
     <strong>Git, Github, Gitlab:</strong> Proficient in version control systems, using Git, Github, and Gitlab for collaborative development.
   </div>
   <div align="center">
-    <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Icon" title="Firebase" width="40" height="40">
-    <img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure DevOps Icon" title="Azure DevOps" width="40" height="40">
-    <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes Icon" title="Kubernetes" width="40" height="40">
-    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker Icon" title="Docker" width="40" height="40">
-    <strong>Firebase, Azure DevOps, Kubernetes, Docker:</strong> Experience to build end to end CI/CD pipelines using DevOps tools..
+    <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Icon" title="Firebase" width="40" height="40"><strong>Firebase</strong>
+    <img src="https://simpleicons.org/icons/azuredevops.svg" alt="Azure DevOps Icon" title="Azure DevOps" width="40" height="40"><strong>Azure DevOps</strong>
+    <img src="https://simpleicons.org/icons/kubernetes.svg" alt="Kubernetes Icon" title="Kubernetes" width="40" height="40"><strong> Kubernetes</strong>
+    <img src="https://simpleicons.org/icons/docker.svg" alt="Docker Icon" title="Docker" width="40" height="40"> <strong>Docker:</strong>
+    Experience to build end to end CI/CD pipelines using DevOps tools..
   </div>
 </div>
 
