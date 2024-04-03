@@ -72,18 +72,20 @@
 <!-- Operating Superhero Systems -->
 <div align="center">
   <div align="center">
-    <img src="./assets/icons/microsoft.svg" alt="Windows Icon" title="Windows" width="40" height="40">
-    <strong>Windows, <img src="./assets/icons/ubuntu.svg" alt="Unix Icon" title="Unix" width="40" height="40"> Unix, <img src="./assets/icons/apple.svg" alt="macOS Icon" title="macOS" width="40" height="40"> macOS:</strong> Proficient in working across diverse operating systems for seamless development and deployment.
+    <img src="./assets/icons/microsoft.svg" alt="Windows Icon" title="Windows" width="40" height="40"><strong>Windows</strong>
+    <img src="./assets/icons/ubuntu.svg" alt="Unix Icon" title="Unix" width="40" height="40"> <strong>Linux</strong>
+    <img src="./assets/icons/apple.svg" alt="macOS Icon" title="macOS" width="40" height="40"><strong>macOS</strong>
+    Proficient in working across diverse operating systems for seamless development and deployment.
   </div>
 </div>
 
 <!-- DevOps Superhero Tools -->
 <div align="center">
   <div align="center">
-    <img src="./assets/icons/git.svg" alt="Git Icon" title="Git" width="40" height="40">
-    <img src="./assets/icons/github.svg" alt="GitHub Icon" title="GitHub" width="40" height="40">
-    <img src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab Icon" title="GitLab" width="40" height="40">
-    <strong>Git, Github, Gitlab:</strong> Proficient in version control systems, using Git, Github, and Gitlab for collaborative development.
+    <img src="./assets/icons/git.svg" alt="Git Icon" title="Git" width="40" height="40"><strong>Git</strong>
+    <img src="./assets/icons/github.svg" alt="GitHub Icon" title="GitHub" width="40" height="40"><strong>GitHub</strong>
+    <img src="https://simpleicons.org/icons/gitlab.svg" alt="GitLab Icon" title="GitLab" width="40" height="40"><strong>GitLab:</strong>
+     Proficient in version control systems, using Git, Github, and Gitlab for collaborative development.
   </div>
   <div align="center">
     <img src="https://simpleicons.org/icons/firebase.svg" alt="Firebase Icon" title="Firebase" width="40" height="40"><strong>Firebase</strong>
